@@ -7,4 +7,4 @@
 
 
 
-Versión final: 2.1
+Versión final: 2.0
